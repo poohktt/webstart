@@ -1,0 +1,62 @@
+
+body{
+ margin:0px;
+ left:0px;
+ top:0px;
+ background-color:#FFF; 
+}
+.container{
+ width:931px;
+ margin:0 auto;
+}
+.header{
+ float:left;
+ width:100%;
+ height:50px;
+ background-color:#E60604;
+}
+.nav{
+ float:left;
+ width:100%;
+ height:40px;
+ background-color:#666;
+}
+.content-container{
+ float:left;
+ height:540px;
+ background-color:#CCC;
+}
+.left-content{
+ float:left;
+ width:200px;
+ height:100%;
+ background-color:#C2C1BF;
+}
+.center-content{
+ float:left;
+ width:531px;
+ height:100%;
+ background-color:#E3E3E3;
+}
+.right-content{
+ float:right;
+ width:200px;
+ height:100%;
+ background-color:#CCC;
+}
+.footer{
+ clear:both;
+ float:left;
+ width:100%;
+ height:50px;
+ background-color:#E60604;
+}/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 11 เม.ย. 2563, 18:05:41
+    Author     : poohktt1
+*/
+
